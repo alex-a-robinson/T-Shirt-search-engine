@@ -1,0 +1,7 @@
+cv.py
+cv2.so
+collection/
+*.pyc
+index
+query/
+collecter.py
